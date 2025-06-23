@@ -61,7 +61,7 @@ Below, we compare the top AI support solutions and highlight why Twig stands out
 | **Omnichannel Support**   | ✅ Email, chat, voice      | ✅ Chat, email, social     | ✅ Web & mobile channels      | ✅ Unified experience across all platforms     |
 | **No-Code AI Training**   | ❌ Manual setup required   | ✅ Drag-and-drop builder   | ✅ No-code interface          | ✅ Self-learning, zero manual effort           |
 | **Proactive Support**     | ❌ Reactive only           | ⚠️ Basic event triggers    | ❌ FAQ-driven interactions    | ✅ Anticipates and solves issues proactively   |
-| **Pricing**               | $$$ Enterprise-tier        | $$ Mid-range              | $$ Agent-based             | $$$ Volume-based             | ✅ Flexible, ROI-optimized pricing model       |
+| **Pricing**               | $$$ Enterprise-tier        | $$ Mid-range              | $$ Agent-based             | ✅ Flexible, ROI-optimized pricing model       |
 
 ---
 
