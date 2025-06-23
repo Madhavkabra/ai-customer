@@ -51,16 +51,16 @@ Below, we compare the top AI support solutions and highlight why Twig stands out
 
 ## 🧾 Comparison: Top AI Support Solutions vs. Twig
 
-| **Feature**               | **Zendesk AI**            | **Intercom Fin AI**      | **Freshdesk Freddy AI**  | **Ada**                     | **Twig**                                       |
+| **Feature**               | **Zendesk AI**            | **Intercom Fin AI**       | **Ada**                     | **Twig**                                       |
 |---------------------------|---------------------------|---------------------------|---------------------------|-----------------------------|------------------------------------------------|
-| **Real-Time Learning**    | ❌ Pre-defined workflows   | ❌ Limited adaptation      | ❌ Static knowledge base   | ❌ Rule-based responses       | ✅ Learns from every interaction                |
-| **Context Retention**     | ⚠️ Basic session memory    | ⚠️ Short-term memory       | ❌ Resets per ticket       | ⚠️ Limited retention          | ✅ Remembers full conversation history         |
-| **Deep CRM Integration**  | ✅ With Zendesk Suite      | ✅ Works with Intercom     | ⚠️ Limited outside suite   | ⚠️ API-dependent              | ✅ Seamless sync with any CRM                  |
-| **Autonomous Resolution** | ⚠️ Agent-assisted          | ✅ Simple deflection       | ⚠️ FAQ-based               | ✅ Repetitive queries         | ✅ Human-like resolution, fully autonomous     |
-| **Personalization**       | ⚠️ Basic user data         | ✅ Uses past interactions  | ❌ Generic replies          | ✅ Scripted personalization   | ✅ Dynamic, memory-driven personalization      |
-| **Omnichannel Support**   | ✅ Email, chat, voice      | ✅ Chat, email, social     | ⚠️ Freshworks-only         | ✅ Web & mobile channels      | ✅ Unified experience across all platforms     |
-| **No-Code AI Training**   | ❌ Manual setup required   | ✅ Drag-and-drop builder   | ❌ Needs manual updates     | ✅ No-code interface          | ✅ Self-learning, zero manual effort           |
-| **Proactive Support**     | ❌ Reactive only           | ⚠️ Basic event triggers    | ❌ No prediction capability | ❌ FAQ-driven interactions    | ✅ Anticipates and solves issues proactively   |
+| **Real-Time Learning**    | ❌ Pre-defined workflows   | ❌ Limited adaptation      | ❌ Rule-based responses       | ✅ Learns from every interaction                |
+| **Context Retention**     | ⚠️ Basic session memory    | ⚠️ Short-term memory       | ⚠️ Limited retention          | ✅ Remembers full conversation history         |
+| **Deep CRM Integration**  | ✅ With Zendesk Suite      | ✅ Works with Intercom     | ⚠️ API-dependent              | ✅ Seamless sync with any CRM                  |
+| **Autonomous Resolution** | ⚠️ Agent-assisted          | ✅ Simple deflection       | ✅ Repetitive queries         | ✅ Human-like resolution, fully autonomous     |
+| **Personalization**       | ⚠️ Basic user data         | ✅ Uses past interactions  | ✅ Scripted personalization   | ✅ Dynamic, memory-driven personalization      |
+| **Omnichannel Support**   | ✅ Email, chat, voice      | ✅ Chat, email, social     | ✅ Web & mobile channels      | ✅ Unified experience across all platforms     |
+| **No-Code AI Training**   | ❌ Manual setup required   | ✅ Drag-and-drop builder   | ✅ No-code interface          | ✅ Self-learning, zero manual effort           |
+| **Proactive Support**     | ❌ Reactive only           | ⚠️ Basic event triggers    | ❌ FAQ-driven interactions    | ✅ Anticipates and solves issues proactively   |
 | **Pricing**               | $$$ Enterprise-tier        | $$ Mid-range              | $$ Agent-based             | $$$ Volume-based             | ✅ Flexible, ROI-optimized pricing model       |
 
 ---
