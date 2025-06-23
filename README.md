@@ -37,6 +37,8 @@ graph TD
     C --> D[Response Generation]
     D --> E[Continuous Learning]
 
+``` 
+
 # 🤖 AI-Powered Customer Support Showdown: How Twig Outperforms the Competition
 
 Customer support is evolving rapidly, and AI is at the forefront of this transformation. While many AI support tools exist — such as **Zendesk AI**, **Intercom Fin AI**, **Freshdesk Freddy AI**, and **Ada** — they often fall short in delivering true intelligence, adaptability, and seamless integration.
