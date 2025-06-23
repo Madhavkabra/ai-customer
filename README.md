@@ -51,17 +51,19 @@ Below, we compare the top AI support solutions and highlight why Twig stands out
 
 ## 🧾 Comparison: Top AI Support Solutions vs. Twig
 
-| **Feature**               | **Zendesk AI**            | **Intercom Fin AI**       | **Ada**                     | **Twig**                                       |
-|---------------------------|---------------------------|---------------------------|---------------------------|-----------------------------|------------------------------------------------|
-| **Real-Time Learning**    | ❌ Pre-defined workflows   | ❌ Limited adaptation      | ❌ Rule-based responses       | ✅ Learns from every interaction                |
-| **Context Retention**     | ⚠️ Basic session memory    | ⚠️ Short-term memory       | ⚠️ Limited retention          | ✅ Remembers full conversation history         |
-| **Deep CRM Integration**  | ✅ With Zendesk Suite      | ✅ Works with Intercom     | ⚠️ API-dependent              | ✅ Seamless sync with any CRM                  |
-| **Autonomous Resolution** | ⚠️ Agent-assisted          | ✅ Simple deflection       | ✅ Repetitive queries         | ✅ Human-like resolution, fully autonomous     |
-| **Personalization**       | ⚠️ Basic user data         | ✅ Uses past interactions  | ✅ Scripted personalization   | ✅ Dynamic, memory-driven personalization      |
-| **Omnichannel Support**   | ✅ Email, chat, voice      | ✅ Chat, email, social     | ✅ Web & mobile channels      | ✅ Unified experience across all platforms     |
-| **No-Code AI Training**   | ❌ Manual setup required   | ✅ Drag-and-drop builder   | ✅ No-code interface          | ✅ Self-learning, zero manual effort           |
-| **Proactive Support**     | ❌ Reactive only           | ⚠️ Basic event triggers    | ❌ FAQ-driven interactions    | ✅ Anticipates and solves issues proactively   |
-| **Pricing**               | $$$ Enterprise-tier        | $$ Mid-range              | $$ Agent-based             | ✅ Flexible, ROI-optimized pricing model       |
+Customer support tools are evolving, and while many platforms offer some form of AI integration, not all are created equal. Below is a feature-by-feature comparison between the leading AI support solutions and Twig — showcasing where Twig leads the field in automation, intelligence, and customer experience.
+
+| **Feature**               | **Zendesk AI**            | **Intercom Fin AI**       | **Twig**                                       |
+|---------------------------|---------------------------|----------------------------|------------------------------------------------|
+| **Real-Time Learning**    | ❌ Pre-defined workflows   | ❌ Limited adaptation       | ✅ Learns from every interaction                |
+| **Context Retention**     | ⚠️ Basic session memory    | ⚠️ Short-term memory        | ✅ Remembers full conversation history         |
+| **Deep CRM Integration**  | ✅ With Zendesk Suite      | ✅ Works with Intercom      | ✅ Seamless sync with any CRM                  |
+| **Autonomous Resolution** | ⚠️ Agent-assisted          | ✅ Simple deflection        | ✅ Human-like resolution, fully autonomous     |
+| **Personalization**       | ⚠️ Basic user data         | ✅ Uses past interactions   | ✅ Dynamic, memory-driven personalization      |
+| **Omnichannel Support**   | ✅ Email, chat, voice      | ✅ Chat, email, social      | ✅ Unified experience across all platforms     |
+| **No-Code AI Training**   | ❌ Manual setup required   | ✅ Drag-and-drop builder    | ✅ Self-learning, zero manual effort           |
+| **Proactive Support**     | ❌ Reactive only           | ⚠️ Basic event triggers     | ✅ Anticipates and solves issues proactively   |
+| **Pricing**               | $$$ Enterprise-tier        | $$ Mid-range               | ✅ Flexible, ROI-optimized pricing model       |
 
 ---
 
